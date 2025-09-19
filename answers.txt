@@ -3,4 +3,3 @@ Answer: We should use Git because it allows version control and tracking history
 
 Q2: What field could data science be applied to? Give an example.
 Data science could apply to any field because every field works with data, and data science is all about working with data and analyzing that data to make findings.
-
