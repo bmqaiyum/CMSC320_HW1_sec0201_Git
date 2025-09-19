@@ -1,3 +1,6 @@
 Q1: Why might we consider using Git?
 Answer: We should use Git because it allows version control and tracking history. This allows you to go back to previous versions of whatever your working if you made a mistake, or for whatever other reason. It also allows for collaboration. Multiple people can work on one project at the same time. Once everybdoy has made their changes, their changes can be merged back into the main tree. It is also very fast. Committing merging, pulling are all really fast to despite how big the project may be. Many other reasons
 
+Q2: What field could data science be applied to? Give an example.
+Data science could apply to any field because every field works with data, and data science is all about working with data and analyzing that data to make findings.
+
